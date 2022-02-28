@@ -3,7 +3,7 @@
 - [Expresser](https://bbs.pcbeta.com/viewthread-1914873-1-1.html)
 - [josways](https://github.com/josways/B460M-MORTAR)
 
-> Expresser的配置前置USB3失效，可能因为他是wifi版，替换dust26的USBPorts.kext后正常。
+> 别人的USBPorts.kext不一定通用，如果出现USB端口没反应之类问题，去搜[USBToolBox](https://github.com/USBToolBox/tool)定制教程diy一下
 
 
 ## 版本
